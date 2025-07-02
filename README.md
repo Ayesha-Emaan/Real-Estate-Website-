@@ -41,6 +41,8 @@ This is a modern, responsive **Real Estate Website** built using **HTML**, **CSS
 
 ![Homepage Screenshot](SS1.png)
 
+Live demo: https://ayesha-emaan.github.io/Real-Estate-Website-/
+
 ## 📌 How to Use
 
 1. Clone or download the repository.
@@ -51,8 +53,3 @@ This is a modern, responsive **Real Estate Website** built using **HTML**, **CSS
 git clone https://github.com/your-username/real-estate-website.git
 cd real-estate-website
 start index.html
-
-📫 Contact
-📧 Email: emaanayesha50@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/ayesha-emaan-1b5a1b295/
-
